@@ -124,9 +124,28 @@ comment
 //     console.log(i);
 // }
 
-var i= 0;
+// var i= 0;
 
-while (i<10){
-    console.log(i);
-    i++;
-}
+// while (i<10){
+//     console.log(i);
+//     i++;
+// }
+
+// for (var i=1; i<6; i++){
+//     console.log(i);
+// }
+// console.log("Counting completed");
+
+
+
+// for (var i=5; i>0; i--){
+//     console.log(i);
+// }
+// console.log("Counting completed");
+
+// var i = 5;
+
+// while (i>0){
+//     console.log(i);
+//     i--;
+// }
