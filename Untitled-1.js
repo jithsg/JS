@@ -119,3 +119,7 @@ comment
 //         console.log("There is no such day");
 //         break;
 // }
+
+for (var i=0; i<10; i++){
+    console.log(i);
+}
