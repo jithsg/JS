@@ -31,7 +31,7 @@ comment
 //     console.log("you failed the test");
 // }
 
-var place = "first";
+// var place = "first";
 
 // if (place=="first"){
 //     console.log("gold");
@@ -59,3 +59,34 @@ var place = "first";
 //     default:
 //         console.log("no medal");
 // }
+
+
+// if (age>=65){
+//     console.log("You get your income from your pension")
+// }
+// else if (age<65 && age>=18){
+//     console.log("Each month you get a salary")
+// }
+// else if (age<18){
+//     console.log("You get an allowance")
+// }
+// else{
+//     console.log("The value of the age variable is not numerical")
+// }
+
+var age =10;
+switch(true){
+    case age>=65:
+        console.log("You get your income from your pension")
+        break;
+    case age<65 && age>=18:
+        console.log("Each month you get a salary")
+        break;
+    case age<18:
+        console.log("You get an allowance")
+        break;
+    default:
+        console.log("The value of the age variable is not numerical")
+        break
+
+}
