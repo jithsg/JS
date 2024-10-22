@@ -149,3 +149,11 @@ comment
 //     console.log(i);
 //     i--;
 // }
+
+
+// for (var i=2023; i<2025; i++){
+//     console.log(i);
+//     for (var j=1; j<=3; j++){
+//         console.log("=====", j);
+//     }
+// }
