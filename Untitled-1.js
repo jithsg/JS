@@ -74,19 +74,48 @@ comment
 //     console.log("The value of the age variable is not numerical")
 // }
 
-var age =10;
-switch(true){
-    case age>=65:
-        console.log("You get your income from your pension")
-        break;
-    case age<65 && age>=18:
-        console.log("Each month you get a salary")
-        break;
-    case age<18:
-        console.log("You get an allowance")
-        break;
-    default:
-        console.log("The value of the age variable is not numerical")
-        break
+// var age =10;
+// switch(true){
+//     case age>=65:
+//         console.log("You get your income from your pension")
+//         break;
+//     case age<65 && age>=18:
+//         console.log("Each month you get a salary")
+//         break;
+//     case age<18:
+//         console.log("You get an allowance")
+//         break;
+//     default:
+//         console.log("The value of the age variable is not numerical")
+//         break 
 
-}
+// }
+
+// var day = "Sunday";
+
+// switch (day){
+//     case "Sunday":
+//         console.log("Its Sunday");
+//         break;
+//     case "Monday":
+//         console.log("Its Monday");
+//         break;
+//     case "Tuesday":
+//         console.log("Its Tuesday");
+//         break;
+//     case "Wednesday":
+//         console.log("Its Wednesday");
+//         break;
+//     case "Thursday":
+//         console.log("Its Thursday");
+//         break;
+//     case "Friday":
+//         console.log("Its Friday");
+//         break;
+//     case "Saturday":
+//         console.log("Its Saturday");
+//         break;
+//     default:
+//         console.log("There is no such day");
+//         break;
+// }
