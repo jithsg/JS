@@ -166,11 +166,9 @@ comment
 // }
 
 
-function add(){
-    var a = 10;
-    var b = 20;
+function add(a, b){
     var c = a+b;
     console.log(c);
 }
-add();
+add(10, 20);
 
