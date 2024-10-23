@@ -166,9 +166,18 @@ comment
 // }
 
 
-function add(a, b){
-    var c = a+b;
-    console.log(c);
-}
-add(10, 20);
+// function add(a, b){
+//     var c = a+b;
+//     console.log(c);
+// }
+// add(10, 20);
 
+
+// function display(arr){
+//     for(var i=0; i<arr.length; i++){
+//         console.log(i+1, ':', arr[i]);
+//     }
+// }
+
+// var arr= ["a", "b", "c", "d", "e"];
+// display(arr);
